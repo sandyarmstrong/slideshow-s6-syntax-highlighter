@@ -34,6 +34,7 @@ highlighter/shBrushGroovy.js
 highlighter/shBrushJavaFX.js
 highlighter/shBrushJava.js
 highlighter/shBrushJScript.js
+highlighter/shBrushObjectiveC.js
 highlighter/shBrushPerl.js
 highlighter/shBrushPhp.js
 highlighter/shBrushPlain.js
